@@ -152,3 +152,5 @@ Hour  No-of-bookings
 22    1389
 
 23    1170
+
+## Not Calculated Surge Multiplier as Price columns is not available.

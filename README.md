@@ -1,16 +1,17 @@
 # Xrides
+## If jupyter notebook is not opening copy the file URL and open it in https://nbviewer.jupyter.org/
 
 # Complete Analysis of Trips
 
 ## Top 10 Areas from which bookings are made
 Area-id  no-of-bookings
-393.0     3858
+393.0          3858
 
-571.0     1631
+571.0              1631
+         
+293.0              1052
 
-293.0     1052
-
-585.0      911
+585.0               911
 
 1010.0     768
 
